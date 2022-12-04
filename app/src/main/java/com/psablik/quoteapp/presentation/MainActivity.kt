@@ -1,4 +1,4 @@
-package com.psablik.quoteapp
+package com.psablik.quoteapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.psablik.quoteapp.ui.theme.QuoteAppTheme
+import com.psablik.quoteapp.presentation.ui.theme.QuoteAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
