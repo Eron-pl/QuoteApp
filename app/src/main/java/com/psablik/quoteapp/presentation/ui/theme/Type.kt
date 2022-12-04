@@ -1,4 +1,4 @@
-package com.psablik.quoteapp.ui.theme
+package com.psablik.quoteapp.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
