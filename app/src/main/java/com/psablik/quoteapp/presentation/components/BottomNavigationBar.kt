@@ -41,7 +41,7 @@ fun BottomNavigationBar(
                         )
 
                     },
-                label = { Text(text = screen.title!!) }
+                    label = { Text(text = screen.title!!) }
                 )
             }
         }

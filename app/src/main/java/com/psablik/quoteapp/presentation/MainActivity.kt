@@ -29,7 +29,8 @@ fun MainScreen() {
 
     QuoteAppTheme {
         Column(
-            Modifier.fillMaxSize()) {
+            Modifier.fillMaxSize()
+        ) {
             Navigation(
                 modifier = Modifier.weight(1f),
                 navController = navController
