@@ -1,3 +1,9 @@
 <resources>
+    <!-- App -->
     <string name="app_name">QuoteApp</string>
+
+    <!-- Screens -->
+    <string name="screen_home_title">Home</string>
+    <string name="screen_favorites_title">Favorites</string>
+    <string name="screen_settings_title">Settings</string>
 </resources>
